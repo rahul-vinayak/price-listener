@@ -48,3 +48,6 @@ Thumbs.db
 *.mov
 *.wmv
 
+/Rahul-DB-interview-exercise.iml
+.gradle/
+Rahul-DB-interview-exercise.iml
