@@ -33,7 +33,7 @@ Develop a basic implementation of the PriceListener interface that provides the 
 1. Connects to a PriceSource instance
 1. Monitors price movements on a specified single stock (e.g. "IBM")
 1. Executes a single "buy" instruction for a specified number of lots (e.g. 100) as soon as the price of that stock is seen to be below
-a specified price (e.g. 55.0). Don’t worry what units that is in.
+a specified price (e.g. 55.0). Donï¿½t worry what units that is in.
 
 ### Considerations
 
@@ -71,4 +71,4 @@ I have made a few assumptions here in the code as:
     public void addSecurityTrigger(String name, double triggerPrice, int buyVolume) {}
     ```
     
-Feel free to contact me on rahul_vinayak@hotmail.com if you have any questions    
+Feel free to contact me on rahul_vinayak@hotmail.com if you have any questions
